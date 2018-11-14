@@ -1,2 +1,2 @@
-# hello, I am gong.
-# Welcome to my blog!
+hello, I am gong.
+Welcome to my blog!
